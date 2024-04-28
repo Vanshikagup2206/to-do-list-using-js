@@ -1,0 +1,5 @@
+li.completed span{
+    background-color: #e0e0e0;
+    color: #999;
+    text-decoration: line-through;
+}
